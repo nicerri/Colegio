@@ -1,0 +1,2 @@
+# Colegio
+Es un Colegio
